@@ -8,11 +8,9 @@
 ;
 (function($) {
 
-    var $menuline = $('.mn-menu-line'),
-        $menu = $('.mn-menu'),
+    var $menu = $('.mn-menu'),
         $submenus = $menu.find('.mn-item-has-megamenu, .mn-item-has-submenu'),
         speed = 1000,
-        menuInitPos = $('#main').offset(),
         scrolltimer,
         resizetimer;
 
