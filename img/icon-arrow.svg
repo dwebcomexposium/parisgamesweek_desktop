@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="9px" viewBox="0 0 6 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="button/link/yellow" transform="translate(-90.000000, -22.000000)" fill="#ffffff" fill-rule="nonzero">
+            <path d="M93.1331148,26.3326042 L90.3001982,29.1426042 C89.9893648,29.4534375 89.9893648,29.9563542 90.3001982,30.2671875 C90.6143648,30.5776042 91.1218648,30.5776042 91.4360315,30.2671875 L94.8339482,26.8946875 C95.1447815,26.5838542 95.1447815,26.0805208 94.8339482,25.7701042 L91.4360315,22.3976042 C91.1218648,22.0867708 90.6143648,22.0876042 90.3001982,22.3976042 C89.9893648,22.7080208 89.9893648,23.2109375 90.3001982,23.5217708 L93.1331148,26.3326042 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
