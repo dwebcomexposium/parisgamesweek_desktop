@@ -10,3 +10,8 @@
     white-space: break-spaces !important;
 }
 }
+@media only screen and (max-width: 991.98px){
+.content908054 .article-content {
+    width: 328px;
+}
+}
