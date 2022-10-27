@@ -5,3 +5,8 @@
 .content908054 .article-content {
     width: 781px;
 }
+@media only screen and (max-width: 991.98px){
+.site-banner__location {
+    white-space: break-spaces;
+}
+}
