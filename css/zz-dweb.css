@@ -7,6 +7,6 @@
 }
 @media only screen and (max-width: 991.98px){
 .site-banner__location {
-    white-space: break-spaces;
+    white-space: break-spaces !important;
 }
 }
