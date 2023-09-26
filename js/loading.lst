@@ -23,7 +23,6 @@ modules/library.js
 modules/modal.js
 modules/mySelection.js
 modules/newsletter.js
-modules/paginate.js
 modules/partner-load.js
 modules/scroll.js
 modules/searchform-extended.js
