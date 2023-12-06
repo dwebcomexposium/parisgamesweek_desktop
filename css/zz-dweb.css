@@ -15,3 +15,9 @@
     width: 328px;
 }
 }
+li.tiktok {
+    background: url(/theme/parisgamesweek_desktop/img/TikTok-2.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: 5px 2px;
+}
